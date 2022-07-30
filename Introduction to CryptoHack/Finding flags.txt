@@ -1,0 +1,3 @@
+This is just a simple one incase you don't know paste the flag in the place.
+flag:
+crypto{y0ur_f1rst_fl4g}
