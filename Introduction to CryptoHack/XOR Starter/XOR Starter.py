@@ -6,6 +6,5 @@ for i in string:
 	for j in a:
 		c = 13 ^ j
 		d = chr(c)
-		flag = flag
 		flag += (d)
 print("crypto{"+flag+"}")
